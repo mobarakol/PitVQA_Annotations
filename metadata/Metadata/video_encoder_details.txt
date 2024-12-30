@@ -1,0 +1,5 @@
+format = mp4
+scale = 1280*720
+encoder = H.264 (x264)
+framerate = constant framerate (24)
+bitrate = constant quality
