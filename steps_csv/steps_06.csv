@@ -1,0 +1,15 @@
+int_video,int_time,str_step,int_step
+6,0,nasal_corridor_creation,1
+6,35,anterior_sphenoidotomy,2
+6,601,haemostasis,8
+6,627,septum_displacement,3
+6,641,sphenoid_sinus_clearance,4
+6,1162,sellotomy,5
+6,1337,sphenoid_sinus_clearance,4
+6,1582,sellotomy,5
+6,2359,durotomy,6
+6,2715,tumour_excision,7
+6,3481,synthetic_graft_placement,9
+6,3646,fat_graft_placement,10
+6,3742,dural_sealant,12
+6,3784,operation_ended,-1
